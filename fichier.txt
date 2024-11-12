@@ -2,3 +2,4 @@ Version du projet (d'exemple)
 
 === REFONTE-UI ===
 Ceci est un ajout de la branche refonte-ui
+Ceci est un autre ajout
