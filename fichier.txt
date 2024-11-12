@@ -1,1 +1,3 @@
 Version du projet (d'exemple)
+
+Ah la la, un commit nécessaire sur la branche main !
