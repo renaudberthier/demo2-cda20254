@@ -1,3 +1,5 @@
 Version du projet (d'exemple)
 
+Ceci est un ajout de la branche refonte-ui
 Ah la la, un commit nécessaire sur la branche main !
+Ceci est un autre ajout
