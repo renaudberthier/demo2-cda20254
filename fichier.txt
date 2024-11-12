@@ -1,1 +1,4 @@
 Version du projet (d'exemple)
+
+=== Branche mailing ===
+Création d'un système de mail
